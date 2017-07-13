@@ -1,0 +1,6 @@
+F:\Visual Studio code\FirstProgram\FirstProgram\bin\Debug\FirstProgram.exe.config
+F:\Visual Studio code\FirstProgram\FirstProgram\bin\Debug\FirstProgram.exe
+F:\Visual Studio code\FirstProgram\FirstProgram\bin\Debug\FirstProgram.pdb
+F:\Visual Studio code\FirstProgram\FirstProgram\obj\Debug\FirstProgram.csprojResolveAssemblyReference.cache
+F:\Visual Studio code\FirstProgram\FirstProgram\obj\Debug\FirstProgram.exe
+F:\Visual Studio code\FirstProgram\FirstProgram\obj\Debug\FirstProgram.pdb
