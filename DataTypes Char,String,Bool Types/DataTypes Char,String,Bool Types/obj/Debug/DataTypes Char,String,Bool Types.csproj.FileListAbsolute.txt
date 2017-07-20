@@ -1,0 +1,6 @@
+F:\Visual Studio code\A-To-Z forLearning Course\DataTypes Char,String,Bool Types\DataTypes Char,String,Bool Types\bin\Debug\DataTypes Char,String,Bool Types.exe.config
+F:\Visual Studio code\A-To-Z forLearning Course\DataTypes Char,String,Bool Types\DataTypes Char,String,Bool Types\bin\Debug\DataTypes Char,String,Bool Types.exe
+F:\Visual Studio code\A-To-Z forLearning Course\DataTypes Char,String,Bool Types\DataTypes Char,String,Bool Types\bin\Debug\DataTypes Char,String,Bool Types.pdb
+F:\Visual Studio code\A-To-Z forLearning Course\DataTypes Char,String,Bool Types\DataTypes Char,String,Bool Types\obj\Debug\DataTypes Char,String,Bool Types.csprojResolveAssemblyReference.cache
+F:\Visual Studio code\A-To-Z forLearning Course\DataTypes Char,String,Bool Types\DataTypes Char,String,Bool Types\obj\Debug\DataTypes Char,String,Bool Types.exe
+F:\Visual Studio code\A-To-Z forLearning Course\DataTypes Char,String,Bool Types\DataTypes Char,String,Bool Types\obj\Debug\DataTypes Char,String,Bool Types.pdb
