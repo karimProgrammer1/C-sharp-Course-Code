@@ -1,0 +1,6 @@
+F:\Visual Studio code\Mosh hemadani Course\Variables\Variables\bin\Debug\Variables.exe.config
+F:\Visual Studio code\Mosh hemadani Course\Variables\Variables\bin\Debug\Variables.exe
+F:\Visual Studio code\Mosh hemadani Course\Variables\Variables\bin\Debug\Variables.pdb
+F:\Visual Studio code\Mosh hemadani Course\Variables\Variables\obj\Debug\Variables.csprojResolveAssemblyReference.cache
+F:\Visual Studio code\Mosh hemadani Course\Variables\Variables\obj\Debug\Variables.exe
+F:\Visual Studio code\Mosh hemadani Course\Variables\Variables\obj\Debug\Variables.pdb
