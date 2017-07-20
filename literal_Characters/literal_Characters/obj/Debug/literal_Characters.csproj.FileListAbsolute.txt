@@ -1,0 +1,6 @@
+F:\Visual Studio code\A-To-Z forLearning Course\literal_Characters\literal_Characters\bin\Debug\literal_Characters.exe.config
+F:\Visual Studio code\A-To-Z forLearning Course\literal_Characters\literal_Characters\bin\Debug\literal_Characters.exe
+F:\Visual Studio code\A-To-Z forLearning Course\literal_Characters\literal_Characters\bin\Debug\literal_Characters.pdb
+F:\Visual Studio code\A-To-Z forLearning Course\literal_Characters\literal_Characters\obj\Debug\literal_Characters.csprojResolveAssemblyReference.cache
+F:\Visual Studio code\A-To-Z forLearning Course\literal_Characters\literal_Characters\obj\Debug\literal_Characters.exe
+F:\Visual Studio code\A-To-Z forLearning Course\literal_Characters\literal_Characters\obj\Debug\literal_Characters.pdb
