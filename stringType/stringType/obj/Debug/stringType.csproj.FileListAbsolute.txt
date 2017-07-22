@@ -1,0 +1,6 @@
+F:\Visual Studio code\A-To-Z forLearning Course\stringType\stringType\bin\Debug\stringType.exe.config
+F:\Visual Studio code\A-To-Z forLearning Course\stringType\stringType\bin\Debug\stringType.exe
+F:\Visual Studio code\A-To-Z forLearning Course\stringType\stringType\bin\Debug\stringType.pdb
+F:\Visual Studio code\A-To-Z forLearning Course\stringType\stringType\obj\Debug\stringType.csprojResolveAssemblyReference.cache
+F:\Visual Studio code\A-To-Z forLearning Course\stringType\stringType\obj\Debug\stringType.exe
+F:\Visual Studio code\A-To-Z forLearning Course\stringType\stringType\obj\Debug\stringType.pdb
